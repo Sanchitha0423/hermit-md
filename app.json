@@ -7,31 +7,31 @@
   "repository": "https://github.com/A-d-i-t-h-y-a-n/hermit-md",
   "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {07_20_H_E_R_M_I_T_UQ948YX
       "description": "session id",
       "required": true,
       "value": ""
     },
-    "SUDO": {
+    "SUDO": {94702722766
       "description": "owner number of the bot",
       "required": true,
       "value": "null"
     },
-    "MODE": {
+    "MODE": {/
       "description": "mode public or private",
       "required": true,
-      "value": "private"
+      "value": "public"
     },
     "ALWAYS_ONLINE": {
       "description": "show bot number last seen as online",
       "required": false,
       "value": "false"
     },
-    "HEROKU_APP_NAME": {
+    "HEROKU_APP_NAME": {sachintha0423
       "description": "Heroku app name, same as above entered",
       "required": true
     },
-    "HEROKU_API_KEY": {
+    "HEROKU_API_KEY": {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
       "description": "Heroku account api key, https://dashboard.heroku.com/account",
       "required": true
     },
